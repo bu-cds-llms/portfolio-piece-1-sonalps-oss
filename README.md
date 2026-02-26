@@ -13,7 +13,8 @@ This portfolio piece demonstrates an end-to-end, **reproducible** PyTorch workfl
 ```
 your-portfolio-piece/
 ├── README.md
-├── main_analysis.ipynb
+└── outputs/
+    ├──main_analysis.ipynb
 └── outputs/
     ├── figures/
     └── checkpoints/
